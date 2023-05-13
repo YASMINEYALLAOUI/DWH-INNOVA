@@ -1,6 +1,6 @@
 --creation de la base de donnée
 create database gesCom2019;
-
+-- test
 -- ouverture de la base de données
 use gesCom2019;
 
