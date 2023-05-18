@@ -3,7 +3,7 @@ create database gesCom2019;
 -- test
 -- ouverture de la base de données
 use gesCom2019;
-
+-- on utilise la bd gesCom2019
 --syntaxe générale de creation de table
 /*
 create table NomTable(
